@@ -1,0 +1,3 @@
+What are semantic elements?
+
+A semantic element gives a description to both the browser and developer. Some examples of semantic elements include: <header>, <footer>, <figure>, and others. Non-semantic elements include <div> and <span>. Semantic elements clearly define their content.
